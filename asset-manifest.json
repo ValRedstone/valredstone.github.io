@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.54a05b47.css",
+    "main.js": "/static/js/main.0d5a9f7f.js",
+    "static/media/Roboto-Italic.ttf": "/static/media/Roboto-Italic.beb7fe13e61b9e683c37.ttf",
+    "index.html": "/index.html",
+    "main.54a05b47.css.map": "/static/css/main.54a05b47.css.map",
+    "main.0d5a9f7f.js.map": "/static/js/main.0d5a9f7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54a05b47.css",
+    "static/js/main.0d5a9f7f.js"
+  ]
+}
